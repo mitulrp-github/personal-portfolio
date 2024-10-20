@@ -1,0 +1,32 @@
+[
+  {
+    "name": "CSS Experiments",
+    "desc": "Welcome to the realm of CSS sorcery! Within this enchanted repository lie spells of style and enchanting experiments.",
+    "image": "cssexperiment",
+    "category": "css",
+    "links": {
+      "view": "https://mitulrp-github.github.io/css_experiment/",
+      "code": "https://github.com/mitulrp-github/css_experiment"
+    }
+  },
+  {
+    "name": "Bootstrap Portfolio",
+    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
+    "image": "bootstrapportfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Bootstrap Template",
+    "desc": "Basic website template built using HTML and Bootstrap.",
+    "image": "bootstraptemplate",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
