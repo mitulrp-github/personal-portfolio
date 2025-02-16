@@ -10,23 +10,53 @@
     }
   },
   {
-    "name": "Bootstrap Portfolio",
-    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
-    "image": "bootstrapportfolio",
-    "category": "basicweb",
+    "name": "Laravel IMS",
+    "desc": "Laravel Inventory Management System for managing products, stock, and orders efficiently.",
+    "image": "ims",
+    "category": "laravel",
     "links": {
       "view": "#",
-      "code": "#"
+      "code": "https://github.com/mitulrp-github/Laravel_IMS/tree/master"
     }
   },
   {
-    "name": "Bootstrap Template",
-    "desc": "Basic website template built using HTML and Bootstrap.",
-    "image": "bootstraptemplate",
+    "name": "Laravel Blog Public",
+    "desc": "This project is a basic Laravel blog application that includes a setup guide and instructions for creating the necessary components.",
+    "image": "laravelblog",
+    "category": "laravel",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/mitulrp-github/Laravel_Blog"
+    }
+  },
+  {
+    "name": "Reactjs PHP",
+    "desc": "A project integrating React.js with PHP backend for full-stack web development.",
+    "image": "reactjsphp",
     "category": "basicweb",
     "links": {
       "view": "#",
-      "code": "#"
+      "code": "https://github.com/mitulrp-github/Reactjs_PHP"
+    }
+  },
+  {
+    "name": "MERN Chat App Public",
+    "desc": "A simple realtime chat application made using React.js, Node.js, Express.js, and MongoDB.",
+    "image": "mernchatapp",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/mitulrp-github/MERN_CHAT_APP"
+    }
+  },
+  {
+    "name": "Webmap OpenLayers Private",
+    "desc": "OpenLayers is a JavaScript library that makes it relatively easy to visualize geodata in web applications (Web-GIS).",
+    "image": "webmapopenlayers",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/mitulrp-github/webmap_openlayers"
     }
   }
 ]
